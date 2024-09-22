@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Title from "../layouts/Title";
 import Education from "./Education";
 import Skills from "./Skills";
-import originalResume from "../../assets/images/Resume/Sateesh-Kumar-Goud-Resume.pdf";
+import originalResume from "../../assets/images/Resume/Sateesh_kumar-goud.pdf";
 import Experience from "./Experience";
 
 const Resume = () => {
